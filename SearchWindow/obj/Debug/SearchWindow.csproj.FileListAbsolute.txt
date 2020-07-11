@@ -1,0 +1,5 @@
+C:\Users\22551\documents\visual studio 2017\Projects\EggMan\SearchWindow\bin\Debug\SearchWindow.dll
+C:\Users\22551\documents\visual studio 2017\Projects\EggMan\SearchWindow\bin\Debug\SearchWindow.pdb
+C:\Users\22551\documents\visual studio 2017\Projects\EggMan\SearchWindow\obj\Debug\SearchWindow.csprojResolveAssemblyReference.cache
+C:\Users\22551\documents\visual studio 2017\Projects\EggMan\SearchWindow\obj\Debug\SearchWindow.dll
+C:\Users\22551\documents\visual studio 2017\Projects\EggMan\SearchWindow\obj\Debug\SearchWindow.pdb
